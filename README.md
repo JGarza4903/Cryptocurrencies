@@ -6,7 +6,7 @@ The purpose of this repository is to perform exploratory data analysis on a data
 
 ## Results
 The results of this project indicate that there are clear clusters of similar cryptocurrencies based on the total coins mined and total coin supply. By using the K-means clustering algorithm, we were able to group similar cryptocurrencies together, and visualize the clusters using a 3D scatter plot. 
-
+![3D Scatter](https://github.com/JGarza4903/Cryptocurrencies/blob/main/Images/scatter3D.png)
 
 We also used the hvplot library to create a scatter plot and table of the tradable cryptocurrencies.
 
