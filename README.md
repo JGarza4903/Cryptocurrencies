@@ -55,7 +55,7 @@ This type of analysis can support exploratory research, portfolio segmentation, 
 
 ## Evidence
 
-![Data Clean](Images/data_cleaned.png)
+![Data Cleanup](Images/data_cleaned.png)
 
 ---
 
@@ -64,14 +64,6 @@ This type of analysis can support exploratory research, portfolio segmentation, 
 - Feature scaling is critical when using distance-based algorithms like K-Means.
 - PCA helps reduce noise and correlation while preserving meaningful variance.
 - Clustering provides insight into behavioral similarities without requiring prediction targets.
-
----
-
-## Next Steps
-- Experiment with alternative clustering algorithms (DBSCAN, Hierarchical).
-- Evaluate cluster stability over time.
-- Incorporate additional market indicators.
-- Explore visualization techniques for higher-dimensional interpretations.
 
 ---
 
