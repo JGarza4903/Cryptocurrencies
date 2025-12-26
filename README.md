@@ -55,7 +55,7 @@ This type of analysis can support exploratory research, portfolio segmentation, 
 
 ## Evidence
 
-![Data Clean](Images/Data_cleaned.png)
+![Data Clean](Images/data_cleaned.png)
 
 ---
 
